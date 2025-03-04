@@ -1,4 +1,4 @@
-import hero from "/assets/images/hero.jpeg";
+import hero from "/apple-clone/assets/images/hero.jpeg";
 
 export const heroImg = hero;
 
